@@ -1,0 +1,4 @@
+[{"id":1, "action_time":"2023-04-11 18:57:00.020260", "object_id":"1", "object_repr":"gustavocosta", "action_flag":2, "change_message":"[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]", "content_type_id":4, "user_id":1},
+ {"id":2, "action_time":"2023-04-11 19:00:28.018887", "object_id":"1", "object_repr":"Admin", "action_flag":1, "change_message":"[{\"added\": {}}]", "content_type_id":7, "user_id":1},
+ {"id":3, "action_time":"2023-04-11 19:00:49.840391", "object_id":"1", "object_repr":"UserProfile object (1)", "action_flag":1, "change_message":"[{\"added\": {}}]", "content_type_id":8, "user_id":1},
+ {"id":4, "action_time":"2023-04-11 19:01:05.597052", "object_id":"2", "object_repr":"Guest", "action_flag":1, "change_message":"[{\"added\": {}}]", "content_type_id":7, "user_id":1}]

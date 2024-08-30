@@ -1,0 +1,9 @@
+[{"id":7, "app_label":"accounts", "model":"userpersona"},
+ {"id":8, "app_label":"accounts", "model":"userprofile"},
+ {"id":1, "app_label":"admin", "model":"logentry"},
+ {"id":9, "app_label":"articles", "model":"article"},
+ {"id":3, "app_label":"auth", "model":"group"},
+ {"id":2, "app_label":"auth", "model":"permission"},
+ {"id":4, "app_label":"auth", "model":"user"},
+ {"id":5, "app_label":"contenttypes", "model":"contenttype"},
+ {"id":6, "app_label":"sessions", "model":"session"}]
